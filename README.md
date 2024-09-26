@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rose Liu</h1>
-<h3 align="center">A sophomore at WashU majoring in Philosophy-Neuroscience-Psychology and Computer Science. I am passionate about front-end developing. In the future, I am also interested in developing computational models of higher level cognition.</h3>
+<h3 align="center">A Junior at WashU majoring in Philosophy-Neuroscience-Psychology and Computer Science. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
